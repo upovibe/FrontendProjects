@@ -4,3 +4,6 @@
 [submodule "passgenerator"]
 	path = passgenerator
 	url = https://github.com/iamupo/passgenerator.git
+[submodule "cryptofam"]
+	path = cryptofam
+	url = https://github.com/iamupo/cryptofam.git
