@@ -7,3 +7,6 @@
 [submodule "cryptofam"]
 	path = cryptofam
 	url = https://github.com/iamupo/cryptofam.git
+[submodule "tonkeeper-battery"]
+	path = tonkeeper-battery
+	url = https://github.com/upovibe/tonkeeper-battery.git
