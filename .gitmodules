@@ -10,3 +10,6 @@
 [submodule "tonkeeper-battery"]
 	path = tonkeeper-battery
 	url = https://github.com/upovibe/tonkeeper-battery.git
+[submodule "my-next-components"]
+	path = my-next-components
+	url = https://github.com/upovibe/my-next-components.git
