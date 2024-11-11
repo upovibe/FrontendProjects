@@ -13,3 +13,6 @@
 [submodule "my-next-components"]
 	path = my-next-components
 	url = https://github.com/upovibe/my-next-components.git
+[submodule "dashboardx"]
+	path = dashboardx
+	url = https://github.com/upovibe/dashboardx.git
