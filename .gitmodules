@@ -16,3 +16,6 @@
 [submodule "dashboardx"]
 	path = dashboardx
 	url = https://github.com/upovibe/dashboardx.git
+[submodule "CurrencyX"]
+	path = CurrencyX
+	url = https://github.com/upovibe/CurrencyX.git
