@@ -19,3 +19,6 @@
 [submodule "CurrencyX"]
 	path = CurrencyX
 	url = https://github.com/upovibe/CurrencyX.git
+[submodule "luvio-verde-mining"]
+	path = luvio-verde-mining
+	url = https://github.com/upovibe/luvio-verde-mining.git
